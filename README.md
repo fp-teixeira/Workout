@@ -5,6 +5,7 @@ Para a reprodução do desafio, foram feitas as seguintes alterações: Dispensa
 
 # Desafio Final
 Como adicional ao desafio que foi feito:
+
     - adicionar query parameters nos endpoints
         - atleta
             - nome
@@ -20,6 +21,8 @@ Como adicional ao desafio que foi feito:
         - status_code: 303
 
 O que faltou concluir:
+
     - Adicionar paginação utilizando a lib: fastapi-pagination
         - limit e offset
-    Problemas no input de parametros de limit e offset. Não foi possível concluir a implementação até o momento.
+
+Problemas no input de parametros de limit e offset. Não foi possível concluir a implementação até o momento.
